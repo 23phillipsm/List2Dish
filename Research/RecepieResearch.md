@@ -7,3 +7,4 @@ Needs
 
 Wants 
 - Specify cusine
+- Easy data type to parse after fetching
